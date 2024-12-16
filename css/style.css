@@ -88,6 +88,8 @@ body {
 }
 
 .section__p {
+    font-size: 1rem;
+    font-weight: 400;
     color: var(--Pale-Blue);
     margin-bottom: 14px;
 }
